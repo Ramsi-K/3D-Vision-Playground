@@ -6,7 +6,7 @@ Welcome to the 3D Vision Playground repository! This repository serves as a hub 
 
 This repository houses projects related to point clouds, epipolar geometry, Structure from Motion (SfM), Monocular Depth Estimation, Feature Tracking, Optical and Scene Flow, Neural Radiance Fields, and other exciting topics in 3D computer vision. Whether you're a beginner or an experienced practitioner, you'll find something intriguing to explore and learn.
 
-## How to Approach 3D Computer Vision
+## Approaching 3D Computer Vision
 
 ### Goals
 
@@ -87,13 +87,12 @@ This repository houses projects related to point clouds, epipolar geometry, Stru
 
 ### Courses
 
-| Resource                                                      | Status     |
-|---------------------------------------------------------------|------------|
-| [Stanford CS231A: Computer Vision, From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/syllabus.html) | Not Done     |
-| [NUS CS5477 3D Computer Vision](https://youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz&si=D6-Xmu0lP7PiMZE5) | Not Done     |
-| [Geometric Deep Learning; Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com/)| Not Done |
-| [Pytorch Geometric Tutorials](https://youtube.com/playlist?list=PLGMXrbDNfqTzqxB1IGgimuhtfAhGd8lHF&si=YZpmwSW3GgYL71rU)| Not Done |
-| [IITB CS749: Digital Geometry Processing, Spring 2017 (C++)](https://www.cse.iitb.ac.in/~cs749/spr2017/index.html) | Not Done|
+
+- [Stanford CS231A: Computer Vision, From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/syllabus.html) 
+- [NUS CS5477 3D Computer Vision](https://youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz&si=D6-Xmu0lP7PiMZE5) 
+- [Geometric Deep Learning; Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com/)
+- [Pytorch Geometric Tutorials](https://youtube.com/playlist?list=PLGMXrbDNfqTzqxB1IGgimuhtfAhGd8lHF&si=YZpmwSW3GgYL71rU)
+- [IITB CS749: Digital Geometry Processing, Spring 2017 (C++)](https://www.cse.iitb.ac.in/~cs749/spr2017/index.html) 
 
 ### Books
 
@@ -101,6 +100,7 @@ This repository houses projects related to point clouds, epipolar geometry, Stru
 - [R. Hartley and A. Zisserman. Multiple View Geometry in Computer Vision. Cambridge University Press, 2003.](https://www.robots.ox.ac.uk/~vgg/hzbook/)
 - [Sebastian Thrun, Wolfram Burgard, Dieter Fox. Probabilistic robotics. The MIT Press, 2005.](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)
 - [Computer Vision: Algorithms and Applications 2nd Edition Richard Szeliski](https://szeliski.org/Book/)
+- [William L. Hamilton. (2020). Graph Representation Learning. Synthesis Lectures on Artificial Intelligence and Machine Learning, Vol. 14, No. 3 , Pages 1-159.](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
 
 ### Papers
 
@@ -123,6 +123,6 @@ This repository houses projects related to point clouds, epipolar geometry, Stru
 
 ## Contributions
 
-Contributions and feedback are welcome! If you're passionate about 3D computer vision or have ideas for improvement, feel free to open issues or pull requests.
+Contributions and feedback are welcome! If you're passionate about 3D,4D, or 5D  computer vision or have ideas for improvement, feel free to open issues or pull requests.
 
 Let's explore the fascinating world of 3D vision together!
