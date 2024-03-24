@@ -39,3 +39,7 @@ Official Examples](https://pytorch-geometric.readthedocs.io/en/latest/get_starte
   - [Tutorial on Variational Graph Auto-Encoders](https://towardsdatascience.com/tutorial-on-variational-graph-auto-encoders-da9333281129)
   - [Unofficial Variational Graph Auto-encoder in Pytorch](https://github.com/DaehanKim/vgae_pytorch)
   - [Variational Graph Auto-encoder in Pytorch Geometric](https://github.com/Flawless1202/VGAE_pyG)
+  - [Paper: Adversarially Regularized Graph Autoencoder for Graph Embedding](https://www.ijcai.org/Proceedings/2018/0362.pdf)
+
+  - Janossy Pooling
+  -
