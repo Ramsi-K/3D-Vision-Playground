@@ -1,0 +1,5 @@
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+Open3D/notebooks/Open3D_exploration_01.ipynb filter=lfs diff=lfs merge=lfs -text
+Pytorch3D/bundle_adjustment.ipynb filter=lfs diff=lfs merge=lfs -text
+Pytorch3D/deform_source_mesh_to_target_mesh.ipynb filter=lfs diff=lfs merge=lfs -text
+Pytorch3D/render_textured_meshes.ipynb filter=lfs diff=lfs merge=lfs -text
