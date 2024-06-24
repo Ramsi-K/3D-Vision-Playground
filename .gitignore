@@ -1,2 +1,13 @@
 data/
 /3dv_tutorial-master
+sunrgbd/
+
+*.pdf
+*.txt
+*.zip
+*.jpg
+*.json
+*.png
+*.mat
+
+
