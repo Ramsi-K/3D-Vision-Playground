@@ -37,7 +37,7 @@ Models often struggle to generalize to new environments. Outdoors, for example, 
 
 Metrics are not always a good indicator of model performance. For example, a model might have a low RMSE, but still produce very noisy depth maps. This is why it is important to look at the depth maps themselves, and not just the metrics!
 
-## [Voxel51 Tutorial](monocular_depth_estimation.ipynb)
+## [Voxel51 Tutorial](01_Basics_MonocularDepth_Tutorial.ipynb)
 
 ### Tasks
 
@@ -49,6 +49,16 @@ Monocular Depth Estimation with HuggingFace Transformers.
 ### Dataset
 
 The [SUN RGB-D](https://rgbd.cs.princeton.edu/) dataset contains 10,335 RGB-D images, each of which has a corresponding RGB image, depth image, and camera intrinsics. It contains images from the NYU depth v2, Berkeley B3DO, and SUN3D datasets. SUN RGB-D is one of the most popular datasets for monocular depth estimation and semantic segmentation tasks!
+
+## [Monocular Depth Estimation with SUN RGB-D Dataset](02_SelfExploration_MonocularDepth_DPT.ipynb)
+
+This project implements monocular depth estimation using the Dense Prediction Transformer (DPT) model, applied to the SUN RGB-D dataset. The notebook includes:
+
+- **Data Preparation**: Preprocessing RGB images and depth maps from the SUN RGB-D dataset, including resizing and normalization.
+- **Model Inference**: Utilizing a pretrained DPT model from HuggingFace Transformers to generate depth predictions.
+- **Evaluation**: Calculating RMSE and SSIM to evaluate predicted depth maps against ground truth.
+- **Visualization**: Visualizing predictions and creating 3D point clouds using Open3D.
+This notebook demonstrates the effectiveness of transformer-based models for depth estimation and highlights key challenges in dataset preparation and evaluation. Future work could involve fine-tuning the model and improving dataset handling for better results.
 
 ## Resources
 
